@@ -1,6 +1,11 @@
 // functions1.rs
 // Make me compile! Scroll down for hints :)
 
+// NOTE: Let's define the missing function, even if empty, so to make it compile 
+fn call_me()
+{}
+
+
 fn main() {
     call_me();
 }
