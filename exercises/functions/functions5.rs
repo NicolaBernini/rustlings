@@ -6,8 +6,10 @@ fn main() {
     println!("The answer is {}", answer);
 }
 
+
+// NOTE: Return a value 
 fn square(num: i32) -> i32 {
-    num * num;
+    return num * num;
 }
 
 
