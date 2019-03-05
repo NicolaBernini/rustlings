@@ -1,8 +1,9 @@
 // functions3.rs
 // Make me compile! Scroll down for hints :)
 
+// NOTE: Adding required argument 
 fn main() {
-    call_me();
+    call_me(12);
 }
 
 fn call_me(num: i32) {
