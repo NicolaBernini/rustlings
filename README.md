@@ -1,5 +1,9 @@
 ![crab pet](http://i.imgur.com/LbZJgmm.gif) 
 
+# MySolution 
+
+- [to exercises/test1.rs](https://ideone.com/jYIrkp)
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
