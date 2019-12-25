@@ -11,7 +11,7 @@
 
 - [to exercises/if/if1.rs](https://ideone.com/Etf8yu)
 
-## Basic Types 
+## Primitive Types 
 
 To [exercises/primitive_types](exercises/primitive_types) 
 
@@ -37,6 +37,18 @@ To [exercises/primitive_types](exercises/primitive_types)
 
 - [Problem primitive_types6](exercises/primitive_types/primitive_types6.rs) 
   - [Sol6](https://ideone.com/KJjCEZ)
+
+
+## String 
+
+To [exercise/strings](exercise/strings)
+
+- [Problem string1](exercises/strings/strings1.rs) 
+  - [Sol1](https://ideone.com/dxSy90)
+  
+
+- [Problem string2](exercises/strings/strings2.rs) 
+  - [Sol2](https://ideone.com/d76vSa)
 
 
 # rustlings 🦀❤️
