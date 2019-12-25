@@ -2,9 +2,42 @@
 
 # MySolutions 
 
+## Intro 
+
 - [to exercises/test1.rs](https://ideone.com/jYIrkp)
 - [to exercises/test3.rs](https://ideone.com/b8dtQZ)
+
+## Control Flow 
+
 - [to exercises/if/if1.rs](https://ideone.com/Etf8yu)
+
+## Basic Types 
+
+To [exercises/primitive_types](exercises/primitive_types) 
+
+- [Problem primitive_types1](exercises/primitive_types/primitive_types1.rs) 
+  - [Sol1](https://ideone.com/CfycZF)
+
+
+- [Problem primitive_types2](exercises/primitive_types/primitive_types2.rs) 
+  - [Sol2](https://ideone.com/Gci6tQ)
+  
+
+- [Problem primitive_types3](exercises/primitive_types/primitive_types3.rs) 
+  - [Sol3](https://ideone.com/tDTffX)
+
+
+- [Problem primitive_types4](exercises/primitive_types/primitive_types4.rs) 
+  - [Sol4](https://ideone.com/Lmo3BD)
+
+
+- [Problem primitive_types5](exercises/primitive_types/primitive_types5.rs) 
+  - [Sol5](https://ideone.com/TFdQLX)
+
+
+- [Problem primitive_types6](exercises/primitive_types/primitive_types6.rs) 
+  - [Sol6](https://ideone.com/KJjCEZ)
+
 
 # rustlings 🦀❤️
 
